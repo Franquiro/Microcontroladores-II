@@ -1,0 +1,1 @@
+void configADC(int bits);
